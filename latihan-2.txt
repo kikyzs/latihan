@@ -3,3 +3,4 @@ latihan-js
 latihan-tailwind
 latihan-css
 latihan-laravel
+latihan-vue
